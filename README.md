@@ -60,4 +60,4 @@ python manage.py runserver
 ```
 
 ## Автор
-Anton Iskrov
+Антон Искров
